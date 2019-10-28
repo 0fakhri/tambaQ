@@ -1,7 +1,7 @@
 # tambaQ
 Project tugas akhir pbo buat game
 
-[![Contributors][contributors-shield]][contributor-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
